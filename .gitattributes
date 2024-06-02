@@ -1,0 +1,4 @@
+large_files/* filter=lfs diff=lfs merge=lfs -text
+Test10.hdf5 filter=lfs diff=lfs merge=lfs -text
+'*.nc' filter=lfs diff=lfs merge=lfs -text
+Test10.hdm5 filter=lfs diff=lfs merge=lfs -text
